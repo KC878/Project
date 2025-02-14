@@ -1,0 +1,76 @@
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+body {
+  background-color: #202020;
+  color: white;
+  font-family: Arial;
+  text-align:center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+
+
+
+.button-icon{
+  background-color: transparent;
+  border: 3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button-icon:hover{
+  background-color: grey;
+  color: black;
+}
+
+
+.image-icon {
+  height: 50px;
+  width: 50px;
+  
+}
+
+
+.js-text-result{
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.js-text-picks{
+  margin-top: 20x;
+  font-size: 30px;
+  
+}
+.js-text-scores{
+  margin-top: 50px;
+  font-size: 30px;
+  
+}
+
+.button-reset-score{
+  background-color: #e41b17;
+  border: 3px solid white;
+  color: white;
+  font-size: 20px;
+  pad: 10px;
+  width: 180px;
+  height: 50px;
+  border-radius: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.button-reset-score:hover{
+  background-color: forestgreen;
+  color: black;
+}
+      
+  
